@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/user/OneDrive/Desktop/selenium JF/SeleniumJar/animal-sniffer-annotations-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/OneDrive/Desktop/selenium JF/SeleniumJar/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/OneDrive/Desktop/selenium JF/SeleniumJar/checker-compat-qual-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/OneDrive/Desktop/selenium JF/SeleniumJar/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/OneDrive/Desktop/selenium JF/SeleniumJar/error_prone_annotations-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/OneDrive/Desktop/selenium JF/SeleniumJar/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/OneDrive/Desktop/selenium JF/SeleniumJar/j2objc-annotations-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/OneDrive/Desktop/selenium JF/SeleniumJar/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/OneDrive/Desktop/selenium JF/SeleniumJar/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/OneDrive/Desktop/selenium JF/SeleniumJar/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/OneDrive/Desktop/selenium JF/SeleniumJar/selenium-api-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/OneDrive/Desktop/selenium JF/SeleniumJar/selenium-chrome-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/OneDrive/Desktop/selenium JF/SeleniumJar/selenium-edge-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/OneDrive/Desktop/selenium JF/SeleniumJar/selenium-firefox-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/OneDrive/Desktop/selenium JF/SeleniumJar/selenium-ie-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/OneDrive/Desktop/selenium JF/SeleniumJar/selenium-java-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/OneDrive/Desktop/selenium JF/SeleniumJar/selenium-opera-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/OneDrive/Desktop/selenium JF/SeleniumJar/selenium-remote-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/OneDrive/Desktop/selenium JF/SeleniumJar/selenium-safari-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/OneDrive/Desktop/selenium JF/SeleniumJar/selenium-support-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/.m2/repository/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar" sourcepath="C:/Users/user/.m2/repository/commons-io/commons-io/2.11.0/commons-io-2.11.0-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="commons-io"/>
+			<attribute name="maven.artifactId" value="commons-io"/>
+			<attribute name="maven.version" value="2.11.0"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/user/OneDrive/Desktop/selenium JF/Apache_Poi/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/OneDrive/Desktop/selenium JF/Apache_Poi/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/OneDrive/Desktop/selenium JF/Apache_Poi/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/OneDrive/Desktop/selenium JF/Apache_Poi/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/OneDrive/Desktop/selenium JF/Apache_Poi/log4j-api-2.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/OneDrive/Desktop/selenium JF/Apache_Poi/poi-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/OneDrive/Desktop/selenium JF/Apache_Poi/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
