@@ -34,11 +34,7 @@ public class DropDownList {
 		
 		List<WebElement> Month_List = sl.getOptions();
 		
-		for(int i=0;i<=Month_List.size();i++) {
-			
-			String month = Month_List.get(i).getText();
-			System.out.println(i+"==>"+month);
-		}
+		
 		
 		
 		
